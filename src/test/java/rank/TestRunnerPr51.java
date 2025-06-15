@@ -33,6 +33,8 @@ import org.junit.platform.launcher.listeners.TestExecutionSummary;
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;
 
+import rank.*;
+
 //--------------------------------------------------------------------------
 
 public class TestRunnerPr51 {
